@@ -11,23 +11,15 @@
             "id": "4c209246183d5e97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "04f13011420fba86",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md"
+              }
             }
           },
           {
@@ -158,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03f66f89b683acc3",
+  "active": "4c209246183d5e97",
   "lastOpenFiles": [
+    "a11y/Dekoracyjne elementy (zdjęcia).md",
+    "a11y",
     "frontend",
     "test.md"
   ]
