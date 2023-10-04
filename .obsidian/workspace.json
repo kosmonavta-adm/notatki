@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 260.5
   },
   "right": {
     "id": "e4aa437f56341620",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +156,8 @@
   },
   "active": "4c209246183d5e97",
   "lastOpenFiles": [
-    "TypeScript/Map - destrukturyzacja.md",
     "TypeScript/Typy vs Interfejsy.md",
+    "TypeScript/Map - destrukturyzacja.md",
     "a11y/Dekoracyjne elementy (zdjęcia).md",
     "TypeScript",
     "a11y",
