@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Typy vs Interfejsy.md",
-                "mode": "preview",
+                "file": "TypeScript/Map - destrukturyzacja.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Typy vs Interfejsy.md",
+                "file": "TypeScript/Map - destrukturyzacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Typy vs Interfejsy.md",
+                "file": "TypeScript/Map - destrukturyzacja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Typy vs Interfejsy.md"
+                "file": "TypeScript/Map - destrukturyzacja.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "4c209246183d5e97",
   "lastOpenFiles": [
-    "a11y/Dekoracyjne elementy (zdjęcia).md",
     "TypeScript/Typy vs Interfejsy.md",
+    "TypeScript/Map - destrukturyzacja.md",
+    "a11y/Dekoracyjne elementy (zdjęcia).md",
     "TypeScript",
     "a11y",
     "frontend",
