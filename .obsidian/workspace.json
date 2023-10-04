@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Map - destrukturyzacja.md",
-                "mode": "source",
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Map - destrukturyzacja.md",
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Map - destrukturyzacja.md",
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Map - destrukturyzacja.md"
+                "file": "a11y/Dekoracyjne elementy (zdjęcia).md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "4c209246183d5e97",
   "lastOpenFiles": [
-    "TypeScript/Typy vs Interfejsy.md",
     "TypeScript/Map - destrukturyzacja.md",
+    "TypeScript/Typy vs Interfejsy.md",
     "a11y/Dekoracyjne elementy (zdjęcia).md",
     "TypeScript",
     "a11y",
