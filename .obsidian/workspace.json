@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
+                "file": "TypeScript/Discriminated unions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 247.5
   },
   "right": {
     "id": "e4aa437f56341620",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
+                "file": "TypeScript/Discriminated unions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a11y/Dekoracyjne elementy (zdjęcia).md",
+                "file": "TypeScript/Discriminated unions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a11y/Dekoracyjne elementy (zdjęcia).md"
+                "file": "TypeScript/Discriminated unions.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +157,7 @@
   "active": "4c209246183d5e97",
   "lastOpenFiles": [
     "TypeScript/Typy vs Interfejsy.md",
+    "TypeScript/Discriminated unions.md",
     "TypeScript/Map - destrukturyzacja.md",
     "a11y/Dekoracyjne elementy (zdjęcia).md",
     "TypeScript",
